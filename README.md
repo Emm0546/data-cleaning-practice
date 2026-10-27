@@ -52,5 +52,4 @@ less reliable than countries with 5 years.
 ## Tools
 Excel (web): Find and Replace, TRIM, Remove Duplicates, TOCOL, PivotTable
 
-## What I learned
-[2 or 3 sentences in your own words]
+
