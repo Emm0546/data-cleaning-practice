@@ -46,7 +46,7 @@ Turn a messy table of development indicators (6 West African countries,
 less reliable than countries with 5 years.
 
 ## Files
-- `clean_data_practice.xlsx`: cleaned data, pivot table and change log
+- `data_practice.xlsx`: cleaned data, pivot table and change log
 - `raw_data_practice.xlsx`: original messy file
 
 ## Tools
